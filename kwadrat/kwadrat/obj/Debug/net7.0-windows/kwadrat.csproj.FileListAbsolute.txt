@@ -1,0 +1,43 @@
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.exe
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.deps.json
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.runtimeconfig.json
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.dll
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.pdb
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.csproj.AssemblyReference.cache
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat_MarkupCompile.cache
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat_MarkupCompile.lref
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.g.resources
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.AssemblyInfoInputs.cache
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.AssemblyInfo.cs
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.dll
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\refint\kwadrat.dll
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.pdb
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.genruntimeconfig.cache
+C:\Users\egzamin\Desktop\kwadrat\kwadrat\obj\Debug\net7.0-windows\ref\kwadrat.dll
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\App.g.cs
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat_MarkupCompile.cache
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat_MarkupCompile.lref
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\MainWindow.baml
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.g.resources
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\refint\kwadrat.dll
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.pdb
+F:\mobilne - galach\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.exe
+F:\mobilne - galach\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.deps.json
+F:\mobilne - galach\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.runtimeconfig.json
+F:\mobilne - galach\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.dll
+F:\mobilne - galach\kwadrat\kwadrat\bin\Debug\net7.0-windows\kwadrat.pdb
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.GeneratedMSBuildEditorConfig.editorconfig
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.AssemblyInfoInputs.cache
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.AssemblyInfo.cs
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.csproj.CoreCompileInputs.cache
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.dll
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat.genruntimeconfig.cache
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\ref\kwadrat.dll
+F:\mobilne - galach\kwadrat\kwadrat\bin\Debug\net7.0-windows\img\logo.jpg
+F:\mobilne - galach\kwadrat\kwadrat\obj\Debug\net7.0-windows\kwadrat_Content.g.cs
